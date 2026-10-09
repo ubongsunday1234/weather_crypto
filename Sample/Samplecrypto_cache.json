@@ -1,0 +1,413 @@
+[
+  {
+    "bitcoin": {
+      "usd": 85610
+    },
+    "datetime_": "2026-10-06 01:54:24.680112"
+  },
+  {
+    "bitcoin": {
+      "usd": 85610
+    },
+    "datetime_": "2026-10-06 01:54:24.680112"
+  },
+  {
+    "bitcoin": {
+      "usd": 85610
+    },
+    "datetime_": "2026-10-06 01:54:24.680112"
+  },
+  {
+    "bitcoin": {
+      "usd": 85610
+    },
+    "datetime_": "2026-10-06 01:54:24.680112"
+  },
+  {
+    "bitcoin": {
+      "usd": 85610
+    },
+    "datetime_": "2026-10-06 01:54:24.680112"
+  },
+  {
+    "bitcoin": {
+      "usd": 85610
+    },
+    "datetime_": "2026-10-06 01:54:24.680112"
+  },
+  {
+    "bitcoin": {
+      "usd": 85615
+    },
+    "ethereum": {
+      "usd": 2707.5
+    },
+    "litecoin": {
+      "usd": 69.44
+    },
+    "binancecoin": {
+      "usd": 782.75
+    },
+    "bitcoin-cash": {
+      "usd": 314.96
+    },
+    "ripple": {
+      "usd": 1.5
+    },
+    "datetime_": "2026-10-06 01:59:43.897989"
+  },
+  {
+    "bitcoin": {
+      "usd": 85615
+    },
+    "ethereum": {
+      "usd": 2707.5
+    },
+    "litecoin": {
+      "usd": 69.44
+    },
+    "binancecoin": {
+      "usd": 782.75
+    },
+    "bitcoin-cash": {
+      "usd": 314.96
+    },
+    "ripple": {
+      "usd": 1.5
+    },
+    "datetime_": "2026-10-06 01:59:43.897989"
+  },
+  {
+    "ethereum": {
+      "usd": 2703.52
+    },
+    "litecoin": {
+      "usd": 69.29
+    },
+    "bitcoin": {
+      "usd": 85488
+    },
+    "bitcoin-cash": {
+      "usd": 314.97
+    },
+    "datetime_": "2026-10-06 02:11:48.686063"
+  },
+  {
+    "ethereum": {
+      "usd": 2703.52
+    },
+    "litecoin": {
+      "usd": 69.29
+    },
+    "bitcoin": {
+      "usd": 85488
+    },
+    "bitcoin-cash": {
+      "usd": 314.97
+    },
+    "datetime_": "2026-10-06 02:11:48.686063"
+  },
+  {
+    "litecoin": {
+      "usd": 69.53
+    },
+    "binancecoin": {
+      "usd": 782.16
+    },
+    "ethereum": {
+      "usd": 2705.64
+    },
+    "datetime_": "2026-10-06 02:31:40.476295"
+  },
+  {
+    "litecoin": {
+      "usd": 69.53
+    },
+    "binancecoin": {
+      "usd": 782.16
+    },
+    "ethereum": {
+      "usd": 2705.64
+    },
+    "datetime_": "2026-10-06 02:31:40.476295"
+  },
+  {
+    "ripple": {
+      "usd": 1.45
+    },
+    "datetime_": "2026-10-07 10:18:49.908301"
+  },
+  {
+    "bitcoin": {
+      "usd": 83752
+    },
+    "datetime_": "2026-10-07 10:35:21.867409"
+  },
+  {
+    "bitcoin": {
+      "usd": 83701
+    },
+    "datetime_": "2026-10-07 10:36:24.545989"
+  },
+  {
+    "ripple": {
+      "usd": 1.45
+    },
+    "datetime_": "2026-10-07 10:39:12.864498"
+  },
+  {
+    "bitcoin-cash": {
+      "usd": 305.7
+    },
+    "datetime_": "2026-10-07 10:41:24.751384"
+  },
+  {
+    "binancecoin": {
+      "usd": 766.1
+    },
+    "datetime_": "2026-10-07 10:45:06.690394"
+  },
+  {
+    "litecoin": {
+      "usd": 67.46
+    },
+    "datetime_": "2026-10-07 10:48:49.167171"
+  },
+  {
+    "litecoin": {
+      "usd": 67.44
+    },
+    "datetime_": "2026-10-07 10:52:56.766272"
+  },
+  {
+    "ethereum": {
+      "usd": 2581.34
+    },
+    "datetime_": "2026-10-07 10:54:40.116520"
+  },
+  {
+    "bitcoin": {
+      "usd": 83736
+    },
+    "datetime_": "2026-10-07 11:07:59.336850"
+  },
+  {
+    "bitcoin": {
+      "usd": 83770
+    },
+    "ethereum": {
+      "usd": 2578.71
+    },
+    "litecoin": {
+      "usd": 67.38
+    },
+    "binancecoin": {
+      "usd": 767.65
+    },
+    "bitcoin-cash": {
+      "usd": 303.58
+    },
+    "ripple": {
+      "usd": 1.45
+    },
+    "datetime_": "2026-10-07 11:09:14.178299"
+  },
+  {
+    "bitcoin": {
+      "usd": 83791
+    },
+    "datetime_": "2026-10-07 11:13:16.077477"
+  },
+  {
+    "bitcoin-cash": {
+      "usd": 303.4
+    },
+    "datetime_": "2026-10-07 11:14:55.342952"
+  },
+  {
+    "bitcoin": {
+      "usd": 83812
+    },
+    "ethereum": {
+      "usd": 2582.2
+    },
+    "litecoin": {
+      "usd": 67.31
+    },
+    "binancecoin": {
+      "usd": 767.91
+    },
+    "bitcoin-cash": {
+      "usd": 303.44
+    },
+    "ripple": {
+      "usd": 1.45
+    },
+    "datetime_": "2026-10-07 11:16:21.225442"
+  },
+  {
+    "bitcoin-cash": {
+      "usd": 303.43
+    },
+    "datetime_": "2026-10-07 11:17:07.280187"
+  },
+  {
+    "bitcoin": {
+      "usd": 83714
+    },
+    "ethereum": {
+      "usd": 2577.85
+    },
+    "litecoin": {
+      "usd": 67.27
+    },
+    "binancecoin": {
+      "usd": 767.08
+    },
+    "bitcoin-cash": {
+      "usd": 303.25
+    },
+    "ripple": {
+      "usd": 1.45
+    },
+    "datetime_": "2026-10-07 11:18:02.689147"
+  },
+  {
+    "bitcoin": {
+      "usd": 83714
+    },
+    "ethereum": {
+      "usd": 2577.85
+    },
+    "litecoin": {
+      "usd": 67.27
+    },
+    "binancecoin": {
+      "usd": 767.08
+    },
+    "bitcoin-cash": {
+      "usd": 303.25
+    },
+    "ripple": {
+      "usd": 1.45
+    },
+    "datetime_": "2026-10-07 11:18:02.689147"
+  },
+  {
+    "bitcoin": {
+      "usd": 83714
+    },
+    "ethereum": {
+      "usd": 2577.85
+    },
+    "litecoin": {
+      "usd": 67.27
+    },
+    "binancecoin": {
+      "usd": 767.08
+    },
+    "bitcoin-cash": {
+      "usd": 303.25
+    },
+    "ripple": {
+      "usd": 1.45
+    },
+    "datetime_": "2026-10-07 11:18:02.689147"
+  },
+  {
+    "bitcoin": {
+      "usd": 83643
+    },
+    "ethereum": {
+      "usd": 2576.11
+    },
+    "litecoin": {
+      "usd": 67.19
+    },
+    "binancecoin": {
+      "usd": 766.48
+    },
+    "bitcoin-cash": {
+      "usd": 302.85
+    },
+    "ripple": {
+      "usd": 1.45
+    },
+    "datetime_": "2026-10-07 11:21:57.516125"
+  },
+  {
+    "bitcoin": {
+      "usd": 83643
+    },
+    "ethereum": {
+      "usd": 2576.11
+    },
+    "litecoin": {
+      "usd": 67.19
+    },
+    "binancecoin": {
+      "usd": 766.48
+    },
+    "bitcoin-cash": {
+      "usd": 302.85
+    },
+    "ripple": {
+      "usd": 1.45
+    },
+    "datetime_": "2026-10-07 11:21:57.516125"
+  },
+  {
+    "bitcoin": {
+      "usd": 82572
+    },
+    "ethereum": {
+      "usd": 2484.9
+    },
+    "litecoin": {
+      "usd": 63.48
+    },
+    "binancecoin": {
+      "usd": 739.35
+    },
+    "bitcoin-cash": {
+      "usd": 274.65
+    },
+    "ripple": {
+      "usd": 1.38
+    },
+    "datetime_": "2026-10-09 17:28:40.482634"
+  },
+  {
+    "bitcoin": {
+      "usd": 82622
+    },
+    "litecoin": {
+      "usd": 63.48
+    },
+    "bitcoin-cash": {
+      "usd": 274.78
+    },
+    "ethereum": {
+      "usd": 2486.33
+    },
+    "datetime_": "2026-10-09 17:31:38.610516"
+  },
+  {
+    "bitcoin": {
+      "usd": 82565
+    },
+    "litecoin": {
+      "usd": 63.44
+    },
+    "bitcoin-cash": {
+      "usd": 274.4
+    },
+    "datetime_": "2026-10-09 17:33:06.101845"
+  },
+  {
+    "bitcoin": {
+      "usd": 82627
+    },
+    "datetime_": "2026-10-09 17:37:22.475687"
+  }
+]
